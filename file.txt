@@ -1,1 +1,1 @@
-this is first file of git test.Im a new change.Im some change.
+this is first file of git test.Im a new change.
